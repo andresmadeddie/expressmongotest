@@ -16,7 +16,7 @@ If you want to create one, add it to the project root with the following content
   PORT=3000
   ```
 
-2. Install Dependencies ( `node_modules` )
+2. Install Dependencies ( `node_modules`)
 Run this command in the project root to install all required packages.
 It uses package.json and package-lock.json to ensure exact versions:
   ```cmd
