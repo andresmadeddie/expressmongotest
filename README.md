@@ -5,7 +5,7 @@ This repository is a simple test project for Express and MongoDB.
 - The repository does not include the `node_modules` folder or the .env file.
 - You can easily recreate these as follows:
 
-1. Environment Variables
+1. Environment Variables <br/>
 An `.env` file is optional because the default configuration already connects to MongoDB and starts the HTTP server.
 If you want to create one, add it to the project root with the following content:
   ```
@@ -16,7 +16,7 @@ If you want to create one, add it to the project root with the following content
   PORT=3000
   ```
 
-2. Install Dependencies ( `node_modules`)
+2. Install Dependencies (`node_modules`) <br/>
 Run this command in the project root to install all required packages.
 It uses package.json and package-lock.json to ensure exact versions:
   ```cmd
